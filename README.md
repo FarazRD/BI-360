@@ -6,6 +6,11 @@ Subtitle: Empowering Business Decisions with Power BI
 Author: Dar Faraz Rashid.
 Date: july, 2025
 Live Dashboard Link: eyJrIjoiM2VmZGQzZjItNTNmNi00MWIxLWExY2EtNmU1MjAzZDAyNWUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
+
+
+
 Project Overview
 AtliQ Hardware, a global leader in computer and accessories sales, faced financial challenges despite rapid growth and expansion. To address these issues, the company decided to transition to data-driven decision-making using Power BI to identify actionable insights across finance, sales, marketing, and supply chain operations.
 
